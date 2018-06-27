@@ -53,4 +53,4 @@ exclude:
   - Gemfile.lock
   - includes
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-hacker
